@@ -74,9 +74,9 @@ SecureDrive is an embedded safety system designed to prevent drunk driving by de
 
 ---
 
-## 📸 Screenshots / Demo
+## 📸 Block Diagram
 
-_Add images or GIFs demonstrating the system in action here (optional)._
+![System Diagram](images/SECUREDRIVE_BlockDiagram.jpg)
 
 ---
 
